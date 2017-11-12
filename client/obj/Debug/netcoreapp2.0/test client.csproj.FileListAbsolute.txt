@@ -1,0 +1,10 @@
+C:\Users\Tulkas\work\test client\bin\Debug\netcoreapp2.0\test client.deps.json
+C:\Users\Tulkas\work\test client\bin\Debug\netcoreapp2.0\test client.runtimeconfig.json
+C:\Users\Tulkas\work\test client\bin\Debug\netcoreapp2.0\test client.runtimeconfig.dev.json
+C:\Users\Tulkas\work\test client\bin\Debug\netcoreapp2.0\test client.dll
+C:\Users\Tulkas\work\test client\bin\Debug\netcoreapp2.0\test client.pdb
+C:\Users\Tulkas\work\test client\obj\Debug\netcoreapp2.0\test client.csproj.CoreCompileInputs.cache
+C:\Users\Tulkas\work\test client\obj\Debug\netcoreapp2.0\test client.AssemblyInfoInputs.cache
+C:\Users\Tulkas\work\test client\obj\Debug\netcoreapp2.0\test client.AssemblyInfo.cs
+C:\Users\Tulkas\work\test client\obj\Debug\netcoreapp2.0\test client.dll
+C:\Users\Tulkas\work\test client\obj\Debug\netcoreapp2.0\test client.pdb
